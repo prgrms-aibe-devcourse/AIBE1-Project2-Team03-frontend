@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AIBE1-Project2-Team03-frontend/static/css/main.c50c4ff2.css",
-    "main.js": "/AIBE1-Project2-Team03-frontend/static/js/main.11b9b310.js",
-    "static/js/453.09378716.chunk.js": "/AIBE1-Project2-Team03-frontend/static/js/453.09378716.chunk.js",
-    "index.html": "/AIBE1-Project2-Team03-frontend/index.html",
-    "main.c50c4ff2.css.map": "/AIBE1-Project2-Team03-frontend/static/css/main.c50c4ff2.css.map",
-    "main.11b9b310.js.map": "/AIBE1-Project2-Team03-frontend/static/js/main.11b9b310.js.map",
-    "453.09378716.chunk.js.map": "/AIBE1-Project2-Team03-frontend/static/js/453.09378716.chunk.js.map"
+    "main.css": "/static/css/main.c50c4ff2.css",
+    "main.js": "/static/js/main.dac9dc33.js",
+    "static/js/453.09378716.chunk.js": "/static/js/453.09378716.chunk.js",
+    "index.html": "/index.html",
+    "main.c50c4ff2.css.map": "/static/css/main.c50c4ff2.css.map",
+    "main.dac9dc33.js.map": "/static/js/main.dac9dc33.js.map",
+    "453.09378716.chunk.js.map": "/static/js/453.09378716.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c50c4ff2.css",
-    "static/js/main.11b9b310.js"
+    "static/js/main.dac9dc33.js"
   ]
 }
